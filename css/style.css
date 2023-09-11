@@ -6,9 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-color: aquamarine;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -43,6 +41,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: brown;
 }
 
 img {
